@@ -14,6 +14,5 @@ Deploy a load balancer with Haproxy in the AWS cloud with Terraform in Debian OS
 
 **5th install inside the HAProxy instance: the latest stable version of the 2.2 branch with TProxy and SSL**
 
-**6th install security tools**
 
 
